@@ -12,7 +12,7 @@ import com.how2java.pojo.Category;
 import com.how2java.service.CategoryService;
 import com.how2java.util.Page;
 
-// 告诉spring mvc这是一个控制器
+// 告诉spring mvc这是一个控制器的类
 @Controller
 @RequestMapping("")
 public class CategoryController {
